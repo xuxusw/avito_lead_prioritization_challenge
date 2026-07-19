@@ -1,2 +1,3 @@
-# avito_lead_prioritization_challenge
-тестовое для data science bootcamp 2026
+## Приоритизация обращений с использованием HistGradientBoosting и расширенных признаков из событийной истории пользователей
+
+Описание подхода содержится в основном скрипте `main_script.ipynb`.
